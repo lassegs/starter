@@ -2,7 +2,7 @@ baseurl: /starter
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: maptimeosl
+repo: starter
 github_org: maptime
 maptime:
   chapter: maptimeosl
