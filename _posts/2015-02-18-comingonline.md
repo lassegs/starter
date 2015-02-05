@@ -1,8 +1,8 @@
 ---
 layout: event
 category: event
-title: Meetup event
+title: 18.2.2015
 rsvp: http://procatinator.com/
 ---
 
-You should add things here.
+Første meetup
